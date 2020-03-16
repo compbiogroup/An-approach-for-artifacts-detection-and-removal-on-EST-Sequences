@@ -1,0 +1,29 @@
+@inproceedings{LNBI46430057,
+
+   editor    = {Marie-France Sagot and Maria Emilia M.T. Walter},
+
+   booktitle = {Advances in Bioinformatics and Computational Biology},
+   publisher = {Springer},
+   location  = {Heidelberg},
+   series    = {LNBI},
+
+   volume    = {4643},
+   year      = {2007},
+   isbn      = {978-3-540-73730-8},
+
+   author    = {Christian Baudet and Zanoni Dias},
+   title     = {New EST Trimming Procedure Applied to SUCEST Sequences},
+
+   pages     = {57--68}
+}
+
+
+@Article{BD2006a,
+  author =	 "C. Baudet and Z. Dias",
+  title =	 "{A}nalysis of slipped sequences in {EST} projects",
+  journal =	 "Genetics and Molecular Research",
+  volume =	 "5",
+  number =	 "1",
+  pages =	 "169--181",
+  year =	 "2006"
+}
